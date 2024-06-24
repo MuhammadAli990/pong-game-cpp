@@ -11,7 +11,7 @@ Here is the source code of a pong game made in c++ using raylib library. There a
 
 ## MainMenu Screenshot
 
-![App Screenshot](menu.png)
+![App Screenshot](screenshots/menu.png)
 
 This game has a main menu for selecting the mode and has sound effects included to make the game more realistic and fun.
 
@@ -24,13 +24,13 @@ This game has a main menu for selecting the mode and has sound effects included 
 
 This game in made using oop concepts and below is the uml class diagram of it:
 
-![App Screenshot](uml.png)
+![App Screenshot](screenshots/uml.png)
 
 ## Result:
 
 After scoring 10 goals, the player wins and match ends.
 
-![App Screenshot](result.png)
+![App Screenshot](screenshots/result.png)
 
 ## Run It:
 
