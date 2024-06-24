@@ -2,7 +2,7 @@
 
 ## Gameplay Screenshot
 
-![App Screenshot](gameSS.png)
+![App Screenshot](screenshots/gameSS.png)
 
 Here is the source code of a pong game made in c++ using raylib library. There are two modes in the game:
 
